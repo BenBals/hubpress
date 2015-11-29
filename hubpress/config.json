@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "BenBals",
-    "repositoryName": "hubpress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"BenBals","repositoryName":"hubpress","branch":"gh-pages"},"site":{"title":"Test Blog","description":"aoeuaou","url":"https://BenBals.github.io/hubpress"},"socialnetwork":{},"theme":{"name":"Casper","url":"//BenBals.github.io/hubpress/themes/Casper"}}
